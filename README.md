@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @istditajrz
 - 👀 I’m interested in rust-lang, bare metal programming and application development
-- 🌱 I’m currently learning how to write idiomatic, efficient rust
+- 🌱 I’m currently learning [FASM](https://flatassembler.net) and linux kernel interaction
 - 📫 How to reach me istditajrz(at)gmail(dot)com
