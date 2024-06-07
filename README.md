@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning [FASM](https://flatassembler.net) and linux kernel interaction
 - 📫 How to reach me istditajrz(at)gmail(dot)com
 ```math
-\ce{$\unicode[background-color: lightgrey]{x0000}$}
+\ce{$\unicode[background: lightgrey]{x0000}$}
